@@ -17,3 +17,5 @@ Data Science Projects
   1. Do Ask HN or Show HN receive more comments on average?
   2. Do posts created at a certain time receive more comments on average?
 
+## [Project 4: Exploring eBay Car Sales Data: Project Overview](....)
+* The aim of this project is to clean the data and analyze the included used car listings using Pandas in Python.
