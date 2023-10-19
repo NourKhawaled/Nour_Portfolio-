@@ -1,4 +1,4 @@
-# Welcome to my portfolio
+# Welcome to Nour Portfolio
 Data Science Projects
 
 ## [Project 1: Prison breaks: Project Overview](https://github.com/NourKhawaled/Nour_Portfolio-/blob/main/Project_1.ipynb)
