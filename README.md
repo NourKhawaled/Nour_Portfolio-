@@ -1,13 +1,17 @@
 # Welcome to Nour's Protfolio
 
 ## MES Siemens - Manufacturing Execution System
-* [System Configuration Certification](https://github.com/user-attachments/files/20836723/System_Configuration_Certification2.pdf)
-* ![System_Configuration_Certification](https://github.com/user-attachments/assets/5b7e658c-3c99-4ea1-878f-6be025f8fce2)
+* System Configuration Certification:
+  ![System_Configuration_Certification](https://github.com/user-attachments/assets/5b7e658c-3c99-4ea1-878f-6be025f8fce2)
+* Resource Engineering Certification:
+  ![Resource_Engineering_Certification](https://github.com/user-attachments/assets/8ded39cc-ad8f-4bb0-a995-735e9ada498f)
+* Process Engineering Certification:
+  ![Process_Engineering_Certification](https://github.com/user-attachments/assets/cf616422-f590-40ef-8b6d-ecbae9a3e7b7)
+* Work Order Management Certification:
+  ![Work_Order_Management_Certification](https://github.com/user-attachments/assets/8063543f-ba1b-4ab1-874b-d8a16f81dd97)
+* Shop Floor Standardization Certification:
+  ![ShopFloor_Standardization_Certification](https://github.com/user-attachments/assets/e7f4a2d4-e024-41fa-aaa5-0a3297d51091)
 
-* [Resource Engineering Certification](https://github.com/user-attachments/files/20836727/Resource_Engineering_Certification2.pdf)
-* [Process Engineering Certification](https://github.com/user-attachments/files/20836681/Process_Engineering_Certification2.pdf)
-* [Work Order Management Certification](https://github.com/user-attachments/files/20836728/Work_Order_Management_Certification2.pdf)
-* [Shop Floor Standardization Certification](https://github.com/user-attachments/files/20836730/ShopFloor_Standardization_Certification2.pdf)
 
 ## Data Science Projects
 ### [Project 1: Prison breaks: Project Overview](https://github.com/NourKhawaled/Nour_Portfolio-/blob/main/Project_1.ipynb)
