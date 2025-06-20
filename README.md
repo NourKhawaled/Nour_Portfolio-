@@ -2,6 +2,8 @@
 
 ## MES Siemens - Manufacturing Execution System
 * [System Configuration Certification](https://github.com/user-attachments/files/20836723/System_Configuration_Certification2.pdf)
+* ![System_Configuration_Certification](https://github.com/user-attachments/assets/5b7e658c-3c99-4ea1-878f-6be025f8fce2)
+
 * [Resource Engineering Certification](https://github.com/user-attachments/files/20836727/Resource_Engineering_Certification2.pdf)
 * [Process Engineering Certification](https://github.com/user-attachments/files/20836681/Process_Engineering_Certification2.pdf)
 * [Work Order Management Certification](https://github.com/user-attachments/files/20836728/Work_Order_Management_Certification2.pdf)
