@@ -2,16 +2,15 @@
 
 ## MES Siemens - Manufacturing Execution System
 * System Configuration Certification:
-  ![System_Configuration_Certification](https://github.com/user-attachments/assets/5b7e658c-3c99-4ea1-878f-6be025f8fce2)
+  ![System_Configuration_Certification](https://github.com/user-attachments/assets/ddb93904-f47e-4176-bd4d-ca299b8182a5)
 * Resource Engineering Certification:
-  ![Resource_Engineering_Certification](https://github.com/user-attachments/assets/8ded39cc-ad8f-4bb0-a995-735e9ada498f)
+  ![Resource_Engineering_Certification](https://github.com/user-attachments/assets/4a0c376d-f8c0-4dc7-8bb0-e8edd1f0e587)
 * Process Engineering Certification:
-  ![Process_Engineering_Certification](https://github.com/user-attachments/assets/cf616422-f590-40ef-8b6d-ecbae9a3e7b7)
+  ![Process_Engineering_Certification](https://github.com/user-attachments/assets/9a9f6b92-ee56-4858-a58d-d9b66bb85104)
 * Work Order Management Certification:
-  ![Work_Order_Management_Certification](https://github.com/user-attachments/assets/8063543f-ba1b-4ab1-874b-d8a16f81dd97)
+  ![Work_Order_Management_Certification](https://github.com/user-attachments/assets/b78d2561-7f6d-4952-ba43-395fd51e2471)
 * Shop Floor Standardization Certification:
-  ![ShopFloor_Standardization_Certification](https://github.com/user-attachments/assets/e7f4a2d4-e024-41fa-aaa5-0a3297d51091)
-
+  ![ShopFloor_Standardization_Certification](https://github.com/user-attachments/assets/8994844a-a0cc-4539-898c-be24734c4fc1)
 
 ## Data Science Projects
 ### [Project 1: Prison breaks: Project Overview](https://github.com/NourKhawaled/Nour_Portfolio-/blob/main/Project_1.ipynb)
