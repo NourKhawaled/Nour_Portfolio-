@@ -1,8 +1,8 @@
-# Welcome to Nour's Protfolio
-
+# Welcome To Nour's Protfolio
+Review my recent activities in System Implementation\Consulting and Data Science projects.
 
 ## Systems Implementation Certifications
-### MES Siemens - Manufacturing Execution System
+During this project I implement MES (Manufacturing Execution System) to improve processes and manage data in manufacturers/shopfloor for large business/enterprise so decision makers could analyze their business data to act accordingly. In general, I need to understand how your business works and adapt the configurations.
 * System Configuration Certification:
   ![System_Configuration_Certification](https://github.com/user-attachments/assets/ddb93904-f47e-4176-bd4d-ca299b8182a5)
 * Resource Engineering Certification:
