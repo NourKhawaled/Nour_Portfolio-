@@ -16,7 +16,7 @@ Siemens Opcenter - During this project I implement MES (Manufacturing Execution 
   ![ShopFloor_Standardization_Certification](https://github.com/user-attachments/assets/8994844a-a0cc-4539-898c-be24734c4fc1)
 
 ### [Tama Group starts a (supply) chain reaction: Visit Article](https://www.pwc.com/gx/en/services/alliances/oracle/tama-group-starts-a-supply-chain-reaction.html)
-Oracle Fusion - Functional logistics implementer in Tama's Project, my responsibility was to analyze business needs and translate it to processes in Oracle Fusion System, write functional documentation and make common applications configuration.
+Oracle Fusion - I implement Supply Chain/Logistics processes in Tama's Project, my responsibility was to analyze business needs and translate it to processes in Oracle Fusion System, write functional documentation and make common applications configuration.
 
 ## Data Science Projects
 ### [Project 1: Prison breaks: Project Overview](https://github.com/NourKhawaled/Nour_Portfolio-/blob/main/Project_1.ipynb)
