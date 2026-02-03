@@ -32,3 +32,6 @@
 
 ### [Project 4: Exploring eBay Car Sales Data: Project Overview](....)
 * The aim of this project is to clean the data and analyze the included used car listings using Pandas in Python.
+
+### [Project 5: Finding Heavy Traffic Indicators on I-94](https://github.com/NourKhawaled/Nour_Portfolio-/blob/main/Traffic_Volume.ipynb)
+* My goal is the analyze the reasons that couses heavy traffic.
